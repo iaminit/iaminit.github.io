@@ -1,0 +1,1 @@
+import{_ as t}from"./q-DoNi8vyY.js";import{J as i,q as o}from"./q-BrAWZM5D.js";const n=i(o(()=>t(()=>import("./q-CGELrbg8.js").then(e=>e.i),[]),"s_0ke81mlctEs")),m={title:"Test Email - JudoOK Admin",meta:[{name:"description",content:"Pagina di test per verificare l'integrazione email SMTP"}]};export{n as default,m as head};

@@ -1,0 +1,1 @@
+import{C as s}from"./q-CYJ4fYPv.js";const n="https://judo-app-4hhblbuynq-ew.a.run.app",i=new s(n);typeof console<"u"&&console.log("[PocketBase] Initialized with URL:",n);const u=(p,r,t)=>t?t.startsWith("http")||t.startsWith("/media")?t:`https://judo-app-4hhblbuynq-ew.a.run.app/api/files/${p}/${r}/${t}`:"";export{u as g,i as p};
