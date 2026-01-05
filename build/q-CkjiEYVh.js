@@ -1,0 +1,1 @@
+import{_ as o}from"./q-DoNi8vyY.js";import{K as e}from"./q-CT5_i-05.js";import{J as r,N as t,q as a}from"./q-BrAWZM5D.js";const _=e(t("s_B0yuA1SDABc")),m=r(a(()=>o(()=>import("./q-W7C2JoRu.js"),[]),"s_H0mkaSpdc2c")),d={title:"Modifica Galleria - JudoOK Gestione"};export{m as default,d as head,_ as useGalleryItemDetail};

@@ -1,0 +1,1 @@
+import{_ as o}from"./q-DoNi8vyY.js";import{K as t}from"./q-CT5_i-05.js";import{J as r,N as e,q as s}from"./q-BrAWZM5D.js";const d=t(e("s_r239sZyOYPk")),l=r(s(()=>o(()=>import("./q-YIMIMYNM.js"),[]),"s_5jg5Y0UEhO8")),m={title:"Modifica News - JudoOK Gestione"};export{l as default,m as head,d as usePostDetail};

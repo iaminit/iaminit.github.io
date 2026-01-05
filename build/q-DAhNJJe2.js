@@ -1,0 +1,1 @@
+import{F as t}from"./q-BHEkzzI0.js";import{z as a,b as o,h as s}from"./q-BrAWZM5D.js";const l=()=>a("div",null,{class:"space-y-6"},[a("h2",null,{class:"text-3xl font-black text-gray-900 dark:text-white"},"Nuovo Programma d'Esame",3,null),o(t,{isNew:!0,type:"programmi",[s]:{isNew:s,type:s}},3,"ok_0")],1,"ok_1");export{l as s_BgsgaShFIoQ};

@@ -1,1 +1,0 @@
-import{_ as o}from"./q-DoNi8vyY.js";import{K as r}from"./q-Dffzb0DX.js";import{J as t,N as e,q as s}from"./q-BrAWZM5D.js";const i=r(e("s_BArE0nUGgKY")),l=t(s(()=>o(()=>import("./q-DrgV9aZG.js"),[]),"s_ouE0TylTWbg"));export{l as default,i as useItemDetail};

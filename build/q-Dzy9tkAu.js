@@ -1,0 +1,1 @@
+import{_ as o}from"./q-DoNi8vyY.js";import{K as r}from"./q-CT5_i-05.js";import{J as e,N as t,q as i}from"./q-BrAWZM5D.js";const m=r(t("s_fHDOZroCpCY")),n=e(i(()=>o(()=>import("./q-CyW828Cy.js"),[]),"s_Nghu531uXws")),d={title:"Modifica Termine - JudoOK Gestione"};export{n as default,d as head,m as useDictionaryTerm};

@@ -1,0 +1,1 @@
+import{_ as o}from"./q-DoNi8vyY.js";import{K as e}from"./q-CT5_i-05.js";import{J as t,N as r,q as i}from"./q-BrAWZM5D.js";const n=e(r("s_KMXuf75f1PA")),c=t(i(()=>o(()=>import("./q-Bt16evyK.js"),[]),"s_YQ5BufcA3Ns")),d={title:"Modifica Tecnica - JudoOK Gestione"};export{c as default,d as head,n as useTechniqueDetail};
