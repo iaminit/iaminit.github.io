@@ -1,0 +1,1 @@
+import{C as o}from"./q-CYJ4fYPv.js";const r="http://127.0.0.1:8090",e=new o(r);typeof console<"u"&&console.log("[PocketBase] Initialized with URL:",r);const p=(n,s,t)=>t?t.startsWith("http")||t.startsWith("/media")?t:`/api/files/${n}/${s}/${t}`:"";export{p as g,e as p};

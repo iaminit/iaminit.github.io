@@ -1,0 +1,1 @@
+import{C as o}from"./q-CYJ4fYPv.js";const n="http://127.0.0.1:8090",a=new o(n),i=async(e,r)=>{try{return{success:!0,admin:(await a.admins.authWithPassword(e,r)).admin}}catch(t){return{success:!1,error:t.message||"Errore durante il login"}}},c=()=>{a.authStore.clear(),typeof window<"u"&&localStorage.removeItem("oauth_provider")};export{i as a,c as l,a as p};

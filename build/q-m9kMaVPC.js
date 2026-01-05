@@ -1,0 +1,1 @@
+import{_ as o}from"./q-DoNi8vyY.js";import{J as t,q as e}from"./q-BrAWZM5D.js";const s=t(e(()=>o(()=>import("./q-DF5ZtEpl.js"),[]),"s_X7bR3jiTkpQ")),_={title:"Nuova News - JudoOK Gestione"};export{s as default,_ as head};
