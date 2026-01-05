@@ -1,0 +1,1 @@
+import{_ as o}from"./q-DoNi8vyY.js";import{K as r}from"./q-Dffzb0DX.js";import{J as t,N as a,q as e}from"./q-BrAWZM5D.js";const _=r(a("s_Xf0bsEHT7qg")),d=t(e(()=>o(()=>import("./q-DNO8fA7K.js"),[]),"s_J7uDcSjsOvQ")),l={title:"Modifica Programma - JudoOK Gestione"};export{d as default,l as head,_ as useProgramDetail};
