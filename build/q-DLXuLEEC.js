@@ -1,0 +1,1 @@
+import{_ as o}from"./q-DoNi8vyY.js";import{J as r,q as m}from"./q-BrAWZM5D.js";const c=t=>{if(!t)return"";if(t.length===11)return t;const e=t.match(/(?:youtu\.be\/|youtube\.com\/(?:v\/|u\/\w\/|embed\/|watch\?v=))([^#&?]*)/);return e&&e[1].length===11?e[1]:""},s=r(m(()=>o(()=>import("./q-BTcGcv1w.js").then(t=>t.t),[]),"s_j16mrwetvUw"));export{s as T,c as e};

@@ -1,1 +1,0 @@
-import{_ as o}from"./q-DoNi8vyY.js";import{K as r}from"./q-CLNnGxoW.js";import{J as t,N as a,q as e}from"./q-BrAWZM5D.js";const n=r(a("s_9aGXqy0GKWg")),d=t(e(()=>o(()=>import("./q-BxRdjEMU.js"),[]),"s_b9orrDnrIeQ")),l={title:"Modifica Kata - JudoOK Gestione"};export{d as default,l as head,n as useKataDetail};
